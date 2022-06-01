@@ -10,6 +10,7 @@ namespace CS010622
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Olá mundo");
         }
     }
 }
